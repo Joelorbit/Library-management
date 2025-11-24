@@ -8,7 +8,7 @@ A simple, clean, and beginner-friendly **console-based Java application** for ma
 
 - 📖 Add new books  
 - 📋 Display all books  
-- ❌ Delete or search books *(optional – based on code)*  
+- ❌ Delete or search books.
 - 🧭 Menu-driven CLI interface
 
 ---
